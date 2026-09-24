@@ -48,10 +48,8 @@ This project transitions a basic flat budget tracker into a professional multi-c
 * **What it is:** An embedded multimedia resource.
 * **What it does:** Hosts an external YouTube educational video ("Budgeting tips for beginners") to assist users with financial literacy.
 
----
-
-## 💻 Getting Started & Running Locally
-
-1. Clone or download this project repository to your local computer.
-2. Verify that `index.html`, `style.css`, and your logo asset (`image.png`) are in the **same folder directory**.
-3. Open `index.html` directly in any web browser, or launch it using the **Live Server** extension in Visual Studio Code.
+## 🛠️ Built With & Requirements Met
+* **Layout:** CSS Grid for the overall layout and Flexbox for component alignment.
+* **Styling:** Custom CSS Properties (`:root`) and a dark theme system.
+* **Responsiveness:** Single-column mobile adaptation below 768px using media queries.
+* **Micro-interactions:** Smooth 250ms hover and focus state transitions on dashboard cards.
